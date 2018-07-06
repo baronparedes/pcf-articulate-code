@@ -7,3 +7,5 @@ build/
 .project
 .springBeans
 /.apt_generated/
+.vscode/launch.json
+.sts4-cache/classpath-data.json
